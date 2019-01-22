@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.github.blaney83.polyplot",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "monolith",
+    "baseName": "PolyPlot",
+    "packageName": "io.github.blaney83.polyplot",
+    "packageFolder": "io/github/blaney83/polyplot",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGVlNmU4YjJiYzIyMDY3NDBiYjNlMWM0NWZjYzU2NTZjNmM3MWUyM2Q4OTk5MmQ0YjU2YTIwYWFhMzlhMGMxZWE2MWYzMWE5NjEwYmM0ZTRhNGZhMzA5N2EwZTBkMTEyZmQ1YTc0YTZlMGNlYWNmMDVlNjIxY2Q0MjczYTIyNTg=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "da", "nl", "fr", "de", "it", "es", "sv"]
+  }
+}
